@@ -1,0 +1,5 @@
+LDA 15
+ADD 14
+SUB 9
+OUT
+JMP 0
